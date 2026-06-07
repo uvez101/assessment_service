@@ -1,0 +1,15 @@
+# Web Framework & Server
+fastapi
+uvicorn
+
+# Data Validation & Schemas
+pydantic
+
+# AI & Machine Learning
+huggingface-hub
+
+# Environment Variables Management
+python-dotenv
+
+
+
